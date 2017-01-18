@@ -184,6 +184,10 @@ void printList(List *sp) {
     curr = sp->first;
     
     printf("hi\n");
+    printf("hi\n");
+    printf("hi\n");
+    printf("hi\n");
+
     /*if(curr == NULL) {
         printf("List is empty. \n");
     }
